@@ -1,12 +1,8 @@
-syntax enable
-set background=dark
-colorscheme color
-
-
 :set number
 :set rnu
+:set tabstop=4
 
-call plug#begin('~/.vim/plugged')
+call plug#begin()
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'scrooloose/nerdtree'
