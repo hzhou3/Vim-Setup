@@ -1,6 +1,6 @@
 # Vim-Setup
 
-#### 1. Vim Plug
+#### 1. Vim Plug + Vim color
 
 ###### Unix, Linux
 
@@ -18,6 +18,6 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 
 
 
-#### 2. Create ~/.vim/
-#### 3. Copy ~/.vimrc
+#### 2. Create ~/.vim/ and ~/.vim/colors/
+#### 3. Copy ~/.vimrc and one of colors.vim downloaded
 #### 4. Do `:PlugInstall` in vim
