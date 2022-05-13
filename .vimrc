@@ -1,6 +1,6 @@
 :set number
 :set rnu
-:set tabstop=4
+:set ts=4 sw=4
 
 call plug#begin()
 Plug 'vim-airline/vim-airline'
