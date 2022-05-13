@@ -1,6 +1,6 @@
 # Vim-Setup
 
-1. Vim Plug
+#### 1. Vim Plug
 
 ###### Unix, Linux
 
@@ -25,6 +25,6 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 
 
 
-2. Create ~/.vim/
-3. Copy ~/.vimrc
-4. Do :PlugInstall in vim
+#### 2. Create ~/.vim/
+#### 3. Copy ~/.vimrc
+#### 4. Do :PlugInstall in vim
