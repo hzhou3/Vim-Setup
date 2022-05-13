@@ -1,3 +1,7 @@
+syntax enable
+set background=dark
+colorscheme color
+
 :set number
 :set rnu
 :set ts=4 sw=4
